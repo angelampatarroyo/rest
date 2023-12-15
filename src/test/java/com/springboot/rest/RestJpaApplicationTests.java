@@ -1,10 +1,10 @@
-package com.springboot.jdbc;
+package com.springboot.rest;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JdbcApplicationTests {
+class RestJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
